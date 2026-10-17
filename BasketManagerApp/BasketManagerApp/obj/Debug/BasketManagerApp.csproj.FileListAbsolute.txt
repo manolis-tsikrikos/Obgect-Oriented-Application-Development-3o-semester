@@ -1,0 +1,14 @@
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\bin\Debug\BasketManagerApp.exe.config
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\bin\Debug\BasketManagerApp.exe
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\bin\Debug\BasketManagerApp.pdb
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.csproj.AssemblyReference.cache
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.MainForm.resources
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.PlayersForm.resources
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.Properties.Resources.resources
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.csproj.GenerateResource.cache
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.exe
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.pdb
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.exe.config
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.AddPlayerForm.resources
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketManagerApp\BasketManagerApp\obj\Debug\BasketManagerApp.StatisticsForm.resources
