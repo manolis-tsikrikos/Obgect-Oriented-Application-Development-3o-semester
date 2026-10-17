@@ -1,0 +1,11 @@
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\bin\Debug\BasketballSimulator.exe.config
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\bin\Debug\BasketballSimulator.exe
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\bin\Debug\BasketballSimulator.pdb
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.csproj.AssemblyReference.cache
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.Form1.resources
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.Properties.Resources.resources
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.csproj.GenerateResource.cache
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.csproj.CoreCompileInputs.cache
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.exe
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.pdb
+C:\Users\tsikr\Documents\πληροφορικη\αντικειμεν. αναπτυξη εφαρμογων\BasketballSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.exe.config
